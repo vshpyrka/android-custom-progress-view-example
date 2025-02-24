@@ -13,6 +13,7 @@ import android.util.TypedValue
 import android.view.View
 import android.view.animation.DecelerateInterpolator
 import androidx.core.content.ContextCompat
+import com.example.customprogressview.R
 import kotlin.math.max
 
 class CustomProgressBar @JvmOverloads constructor(
